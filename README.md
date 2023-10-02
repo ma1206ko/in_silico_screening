@@ -5,10 +5,11 @@ This is an implementation of submitted paper:
 
 
 
-drug_ros_smote
+drug_ros_smote  
 植物に化合物を散布し生成されたROSの値と、化合物ごとの化学的特徴量を
 
-GTM_drug_chemical_space
+GTM_drug_chemical_space  
+aaaa
 
 
 
