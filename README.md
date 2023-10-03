@@ -20,5 +20,12 @@ Display chemical features of each compound in two dimensions using GTM (Generati
 In this method, ROS modulators, which are potential plant defense activators, were accurately predicted with a high level of precision, exceeding 90% .  
 The reason for the high accuracy is thought to be that the candidate compounds are amplified by the SMOTE method before training and verification, it is likely that chemical features similar to the candidates will be included in the training data. The high level of  accuracy can be attributed to the amplification of candidate compounds through the SMOTE method prior to the training and validation processes, thereby increasing the likelihood of incorporating chemical characteristics similar to the candidate into the training dataset. 
 
+# How to run
+It works if you run it on jupyter notebook.
+
 # Results
-https://github.com/ma1206ko/in_silico_screening/blob/main/image/Fig3_DNN.tif
+The execution results for the DNN test data are as follows  
+![](https://github.com/ma1206ko/in_silico_screening/blob/main/img/DNN.jpg)  
+
+The results of displaying the chemical space of 9991 test data in GTM are as follows  
+![](https://github.com/ma1206ko/in_silico_screening/blob/main/img/GTM_chemical_space.jpg)
