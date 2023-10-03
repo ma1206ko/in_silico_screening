@@ -25,7 +25,8 @@ It works if you run it on jupyter notebook.
 
 # Results
 The execution results for the DNN test data are as follows  
-![](https://github.com/ma1206ko/in_silico_screening/blob/main/img/DNN.jpg)  
+<img src="https://github.com/ma1206ko/in_silico_screening/blob/main/img/DNN.jpg" width="800" />
+
 
 The results of displaying the chemical space of 9991 test data in GTM are as follows  
-![](https://github.com/ma1206ko/in_silico_screening/blob/main/img/GTM_chemical_space.jpg)
+<img src="https://github.com/ma1206ko/in_silico_screening/blob/main/img/GTM_chemical_space.jpg" width="800" />
