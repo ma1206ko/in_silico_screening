@@ -21,6 +21,8 @@ In this method, ROS modulators, which are potential plant defense activators, we
 The reason for the high accuracy is thought to be that the candidate compounds are amplified by the SMOTE method before training and verification, it is likely that chemical features similar to the candidates will be included in the training data. The high level of  accuracy can be attributed to the amplification of candidate compounds through the SMOTE method prior to the training and validation processes, thereby increasing the likelihood of incorporating chemical characteristics similar to the candidate into the training dataset. 
 
 # How to run
+The data used for analysis is located under the Data folder.  
+If you want to change the location of the data, change the value of the name variable to the new location + file name.  
 It works if you run it on jupyter notebook.
 
 # Results
